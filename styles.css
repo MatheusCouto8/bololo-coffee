@@ -17,7 +17,7 @@ header {
 }
 
 .logo img {
-    width: 350px;
+    width: 250px;
     height: auto;
 }
 
@@ -57,6 +57,8 @@ section {
 .home {
     background-color: #eaeaea;
     padding: 50px;
+    text-align: center;
+    padding: 50px;
 }
 
 #menu ul {
@@ -83,12 +85,12 @@ h1, h2 {
     color: #000000;
 }
 
-.cafe {
+.cafeC {
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
-    height: ;
+    height: fit-content;
 }
 
 body {
