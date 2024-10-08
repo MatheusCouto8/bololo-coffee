@@ -1,3 +1,31 @@
+@media (max-width: 768px) {
+    .cafeC img {
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: fit-content;
+    width: 350px;
+    }
+
+    body {
+        margin: 0%;
+    }
+
+    .localLink {
+        width: 350px;
+        height: 500px;
+    }
+
+    header {
+        margin: 0%;
+        background-color: #666666;
+        padding: 20px 0;
+        text-align: center;
+    }
+
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -5,12 +33,14 @@
 }
 
 body {
+    margin: 0%;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     color: #333;
 }
 
 header {
+    margin: 0%;
     background-color: #000000;
     padding: 20px 0;
     text-align: center;
